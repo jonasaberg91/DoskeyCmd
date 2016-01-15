@@ -12,7 +12,7 @@ A quick and easy way to work faster across Windows platforms.
 ##Syntax Guide
 Here's an overview of syntax included in the .bat file you can use
 
-######Display Doskey history
+**Display Doskey history**
 
 ```
 	F7,
@@ -20,7 +20,7 @@ Here's an overview of syntax included in the .bat file you can use
 	or type doskey /history
 ```
 
-######Linux commands
+**Linux commands**
 
 ```
 	doskey alias   = doskey $*
@@ -40,7 +40,7 @@ Here's an overview of syntax included in the .bat file you can use
 	doskey sudo    = runas /user:administrator $*
 ```
 
-######Simplified navigation
+**Simplified navigation**
 
 ```
 doskey ..    = cd ..\$*
@@ -49,7 +49,7 @@ doskey ....  = cd ..\..\..\$*
 doskey ..... = cd ..\..\..\..\$*
 ```
 
-######Bind your own applications
+**Bind your own applications**
 
 Example:
 ```
