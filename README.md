@@ -1,5 +1,5 @@
 #Doskey
-Work faster on your Windows platform with a more powerful Command prompt. Doskeys is great for developers used to working on a Unix platform. With Doskeys you can run, browse and manage your projects from your Comnmand prompt.
+Ever find yourself limited on a Windows platform development environment? With Doskeys you can get closer to the Unix terminal you love
 ##Installation
 ####Setting things up
 1. [Download .bat file](https://www.google.se)
