@@ -10,13 +10,11 @@ A quick and easy way to work faster across Windows platforms.
 2. Create a new String value in HKEY_CURRENT_USER\SOFTWARE\Microsoft\Command Processor, with Value Name: AutoRun and Value Data is must be the complete PATH of your .bat file. Example: C:\Windows\bin\doskeys.bat
 
 ##Syntax Guide
-Here's an overview of syntax you can use
+Here's an overview of syntax included in the .bat file you can use
 
-######Comments in your file makes it easier to keep track of applications
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+######Display Doskey history
+
+```F7
+	Alt + F7
+	or type doskey /history
 ```
