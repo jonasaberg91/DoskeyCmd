@@ -1,5 +1,5 @@
 #Doskey
-Ever find yourself limited on a Windows platform development environment? With Doskeys you can get closer to the Unix terminal you love
+Ever find yourself limited on a Windows platform development environment? With Doskeys you can get closer to the Unix terminal you love!
 ##Installation
 ####Setting things up
 1. [Download .bat file](https://www.google.se)
