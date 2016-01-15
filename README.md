@@ -1,11 +1,11 @@
 #Doskey
-Ever find yourself limited on a Windows platform development environment? With Doskeys you can get closer to the Unix terminal you love!
+Ever find yourself limited on a Windows platform development environment? With Doskey's you can get closer to the Unix terminal you love, simply bind your macro using Doskey's and start coding!
 ##Installation
 ####Setting things up
 1. [Download .bat file](https://www.google.se)
 2. Create a folder on your disk (Folder location is optional) Example: *C:\Windows\bin* and place .bat file in the folder
 
-####Enable your Doskeys every time you start your Command Prompt
+####Enable your Doskey's every time you start your Command Prompt
 1. Open Regedit
 2. Create a new String value in *HKEY_CURRENT_USER\SOFTWARE\Microsoft\Command Processor*, with Value Name: AutoRun and Value Data is must be the complete PATH of your .bat file. Example: *C:\Windows\bin\doskeys.bat*
 
