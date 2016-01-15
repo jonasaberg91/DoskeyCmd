@@ -1,5 +1,5 @@
 #Doskey
-Ever find yourself limited on a Windows platform development environment? With Doskey's you can get closer to the Unix terminal you love, simply bind your macro using Doskey's and start coding!
+Ever find yourself limited on a Windows platform development environment? With Doskey's you can get closer to the Unix terminal you love, simply bind your macros using Doskey's and start coding!
 ##Installation
 ####Setting things up
 1. [Download .bat file](https://www.google.se)
