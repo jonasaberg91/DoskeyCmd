@@ -1,5 +1,5 @@
 #Doskey
-A quick and easy way to work faster across Windows platforms.
+Work faster on your Windows platform with a more powerful Cmd, great for developers used to working on a Unix platform.
 ##Installation
 ####Setting things up
 1. [Download .bat file](https://www.google.se)
@@ -61,6 +61,6 @@ Adding your own applications
 doskey nameofyourlink="PATH" $*
 ```
 
-#Additional information
+##Additional information
 
 [Doskey - Microsoft Technet](https://technet.microsoft.com/en-us/library/bb490894.aspx)
