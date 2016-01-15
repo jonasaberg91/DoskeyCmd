@@ -2,7 +2,7 @@
 Ever find yourself limited on a Windows platform development environment? With Doskey's you can get closer to the Unix terminal you love, simply bind your macros using Doskey's and start coding!
 ##Installation
 ####Setting things up
-1. [Download .bat file](https://www.google.se)
+1. [Download .bat file](https://github.com/jonasaberg91/DoskeyCmd/archive/master.zip)
 2. Create a folder on your disk (Folder location is optional) Example: *C:\Windows\bin* and place .bat file in the folder
 
 ####Enable your Doskey's every time you start your Command Prompt
