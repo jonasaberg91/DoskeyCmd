@@ -60,3 +60,7 @@ Adding your own applications
 ```
 doskey nameofyourlink="PATH" $*
 ```
+
+#Additional information
+
+[Doskey - Microsoft Technet](https://technet.microsoft.com/en-us/library/bb490894.aspx)
