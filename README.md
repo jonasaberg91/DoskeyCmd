@@ -13,6 +13,10 @@ A quick and easy way to work faster across Windows platforms.
 Here's an overview of syntax you can use
 
 ######Comments in your file makes it easier to keep track of applications
-```:: This is a comment
-	rem This is also a comment
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
 ```
